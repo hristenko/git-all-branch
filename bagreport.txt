@@ -1,0 +1,10 @@
+1.Sammary
+2.Priority
+3.Severity
+4.Deskription
+5.Attachments
+1.Summary
+2.Priority
+3.Severity
+4.Description
+5.Attachments
